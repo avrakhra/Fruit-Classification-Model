@@ -38,13 +38,16 @@ This project uses a Convolutional Neural Network (CNN) to classify images of fru
 
 **How to Run**
 1. Clone this repository:
-``` git clone <repo-url>
+```bash
+git clone <repo-url>
 ```
 2. Install dependencies
-``` pip install tensorflow numpy
+```bash
+pip install tensorflow numpy
 ```
 3. Run the Python script:
-``` python main.py
+``` bash
+python main.py
 ```
 4. Predictions will be printed with confidence scores.
 
